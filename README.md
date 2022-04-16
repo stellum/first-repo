@@ -1,8 +1,7 @@
 # first-repo
 
-## Index
+This project is to learn about git.
 
-
-This project is to learn about git. 
+## Index 
 
 hello 
